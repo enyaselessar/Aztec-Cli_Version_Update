@@ -48,7 +48,6 @@ aztec \
   --withdrawer $ANY_ETH_ADDRESS \
   --bls-secret-key $BLS_ATTESTER_PRIV_KEY \
   --rollup 0xebd99ff0ff6677205509ae73f93d0ca52ac85d67
-
 ```
 
  ##### $ETH_RPC = Your Eth Rpc URL
@@ -59,6 +58,9 @@ aztec \
  ```
  nano ~/.aztec/keystore/key1.json
 ```
+
+<img width="2530" height="878" alt="image" src="https://github.com/user-attachments/assets/3167805b-0f5a-46e5-84cb-cec5a27672b6" />
+
 
 ## START SEQUENCER
 
