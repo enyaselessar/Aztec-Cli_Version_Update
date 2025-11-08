@@ -55,7 +55,7 @@ aztec \
  ##### $PRIVATE_KEY_OF_OLD_SEQUENCER= Your old private key of sequencer(which have 200k)
  ##### $ETH_ATTESTER_ADDRESS = Newly generated eth public adress which generated in step 3
  ##### $ANY_ETH_ADDRESS = You can use either your old eth adress or new adress(any adress)
- ##### $BLS_ATTESTER_PRIV_KEY = Newly generated wallet porivate keys which defined in step 4.You can see your private key via below command
+ ##### $BLS_ATTESTER_PRIV_KEY = Newly generated wallet private keys which defined in step 4.You can see your private key via below command
  ```
  nano ~/.aztec/keystore/key1.json
 ```
