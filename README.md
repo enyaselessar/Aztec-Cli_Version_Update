@@ -23,6 +23,11 @@ You will see eth public adress and bls adress
 
 <img width="507" height="96" alt="image" src="https://github.com/user-attachments/assets/797ca104-4532-4cef-bb39-40f3aa5f59ab" />
 
+### Note 
+These are your public wallet adresses
+
+You can find private keys of these adress inside key1.json file
+
 #### SAVE YOUR NEW ETH WALLET AND BLS PRIVATE KEYS
 ```
 nano ~/.aztec/keystore/key1.json 
