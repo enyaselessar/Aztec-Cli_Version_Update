@@ -74,8 +74,8 @@ aztec start --node --archiver --sequencer \
   --network testnet \
   --l1-rpc-urls Eth_Sepolia_RPC \
   --l1-consensus-host-urls Eth-beacon_sepolia_RPC \
-  --sequencer.validatorPrivateKeys 0xYourPrivateKey \
-  --sequencer.coinbase YourAddress \
+  --sequencer.validatorPrivateKeys 0xYourPrivateKey (newly generated eth wallet private key.Get this from your key1.json file) \
+  --sequencer.coinbase YourAddress (Newly generated eth attester adress.Get this from step 3) \
   --p2p.p2pIp Your_ip
 ```
 
